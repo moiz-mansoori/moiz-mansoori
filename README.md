@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moiz Mansoori!
 
-Welcome to my GitHub profile. I'm a passionate Python Programming, Machine Learning, and Data Analytics enthusiast. Currently, I'm on a journey to expand my knowledge in these exciting fields.
+Welcome to my GitHub profile. I'm a passionate Python Programming, Machine Learning, and Data science enthusiast. Currently, I'm on a journey to expand my knowledge in these exciting fields.
 
 ## 👀 About Me
 
