@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I'm a passionate Python Programming, Machine Learn
 
 ## 👀 About Me
 
-- 🌱 I’m currently learning and exploring the depths of Python, Machine Learning, and Data Analytics.
-- 💞️ I’m open to collaborations on projects related to Python, Machine Learning, or Data Analytics.
+- 🌱 I’m currently learning and exploring the depths of Python, Machine Learning, and Data science.
+- 💞️ I’m open to collaborations on projects related to Python, Machine Learning, or Data science.
 - 📫 How to reach me: moizroshan2003@gmail.com..
 - ⚡ Fun fact: I am an introvert who enjoys the depth of solitude and finds creativity in quiet moments.
 .
