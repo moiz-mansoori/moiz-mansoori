@@ -1,4 +1,4 @@
-# Howdy, This is MOIZ MANSOORI
+# Howdy, This is MOIZ AHMED MANSOORI
 
 # 💫 About Me:
 🌱 I’m currently learning and exploring the depths of Artifical Intelligence, Data science and Machine Learning.<br>💞️ I’m open to collaborations on projects related to Artificial Intelligence, Data science or Machine Learning.<br>📫 How to reach me: mansoorimoiz03@gmail.com..<br>⚡ Fun fact: I am an introvert who enjoys the depth of solitude and finds creativity in quiet moments. .<br>Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in collaborating. Let's build something amazing together! 🚀<br><br>
