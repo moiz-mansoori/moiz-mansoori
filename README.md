@@ -1,4 +1,4 @@
-# Hi, I’m Moiz Ahmed Mansoori 👋
+# Hi, I’m Moiz Ahmed Mansoori
 
 ## AI Student | Data Science Enthusiast | Machine Learning Developer
 
