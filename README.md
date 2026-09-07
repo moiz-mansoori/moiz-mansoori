@@ -1,6 +1,6 @@
 # Hi, I’m Moiz Ahmed Mansoori
 
-## AI Student | Data Science Enthusiast | Machine Learning Developer
+## AI Engineer | Data Science Enthusiast | Machine Learning Developer
 
 I’m an AI graduate focused on building practical solutions in Artificial Intelligence, Data Science, and Machine Learning.
 
