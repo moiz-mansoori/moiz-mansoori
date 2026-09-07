@@ -2,7 +2,7 @@
 
 ## AI Student | Data Science Enthusiast | Machine Learning Developer
 
-I’m an AI undergraduate focused on building practical solutions in Artificial Intelligence, Data Science, and Machine Learning.
+I’m an AI graduate focused on building practical solutions in Artificial Intelligence, Data Science, and Machine Learning.
 
 - 🔭 Currently building projects in AI, ML, and data-driven applications
 - 🤝 Open to collaborating on AI and data science projects
